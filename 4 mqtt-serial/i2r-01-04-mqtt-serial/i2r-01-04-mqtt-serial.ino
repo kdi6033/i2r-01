@@ -133,11 +133,10 @@ void loop() {
 
 //1초 마다 실행되는 시간함수
 void doTick() {
-    if (!client.connected()) {
+  if (!client.connected())
     reconnect();
-  }
   if(mqttConnected==1)
-  client.loop();
+    client.loop();
   unsigned long currentMillis = millis();
   if (currentMillis - previousMillis >= interval) {
     previousMillis = currentMillis;
@@ -147,9 +146,6 @@ void doTick() {
 
 void tickMqtt()
 { 
-  if (!client.connected()) {
-    reconnect();
-  }
   if(mqttConnected != 1)
     return;
 
