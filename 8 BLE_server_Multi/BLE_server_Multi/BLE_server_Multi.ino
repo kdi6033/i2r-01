@@ -84,22 +84,18 @@ void setup() {
 }
 
 void loop() {
-  bool shouldIncrement = false;
-
-  for (auto &pair : deviceConnectedMap) {
-    if (pair.second) {
-      //pCharacteristic->setValue((uint8_t*)"test", 4);
-      Serial.println(value);
-      String s = String(value);
-      pCharacteristic->setValue((uint8_t*)s.c_str(), s.length());
-      pCharacteristic->notify(pair.first);
-      shouldIncrement = true;
+  if (!deviceConnectedMap.empty()) {
+    Serial.println(value);
+    String s = String(value);
+    for (const auto &pair : deviceConnectedMap) {
+      if (pair.second) {
+        pCharacteristic->setValue((uint8_t*)s.c_str(), s.length());
+        pCharacteristic->notify(pair.first);
+      }
     }
-  }
-
-  if (shouldIncrement) {
     value++;
   }
-  
+ 
   delay(5000);
 }
+
