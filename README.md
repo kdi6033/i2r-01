@@ -45,16 +45,16 @@ https://youtu.be/XUZnNzr35jI)
 아두이노로 mqtt 통신을 연결한다.
 mqtt 통신으로 들어온 문자를 rs232 rs485 통신으로 보낸다.
 rs232 rs485 통신으로 들어온 문자를 mqtt 통신으로 보낸다.<br><br>
-[![MQTT 를 RS232 RS485 통신과 연결](https://img.youtube.com/vi/PjYLiG9bkJo/hqdefault.jpg)](
+<br><br>[![MQTT 를 RS232 RS485 통신과 연결](https://img.youtube.com/vi/PjYLiG9bkJo/hqdefault.jpg)](
 https://youtu.be/PjYLiG9bkJo)
 <br><br>
 ### LS 산전 PLC XEC-DR14E Modbus 통신
 <br><br>LS 산전 PLC XEC-DR14E 를 Modebus 프로토콜을 이용하여 통신한다.
 <br><br>
-[![LS 산전 PLC XEC-DR14E Modbus 통신](https://img.youtube.com/vi/UspWiQ7-4tk/hqdefault.jpg)](
+<br><br>[![LS 산전 PLC XEC-DR14E Modbus 통신](https://img.youtube.com/vi/UspWiQ7-4tk/hqdefault.jpg)](
 https://youtu.be/UspWiQ7-4tk)<br><br>
-https://github.com/kdi6033/i2r-01/tree/main/5%20mqtt-LS%20modebus<br><br>
+<br><br>https://github.com/kdi6033/i2r-01/tree/main/5%20mqtt-LS%20modebus<br><br>
 ### Autonix TK4W-T4RN 온도센서 온도 읽어오기
 <br><br>[![Autonix TK4W-T4RN 온도센서 온도 읽어오기](https://img.youtube.com/vi/sFHXsX1PzqY/hqdefault.jpg)](
 https://youtu.be/sFHXsX1PzqY)<br><br>
-https://github.com/kdi6033/i2r-01/tree/main/Autonix%20TK4W-T4RN%20Temperature%20Sensor
+<br><br>https://github.com/kdi6033/i2r-01/tree/main/Autonix%20TK4W-T4RN%20Temperature%20Sensor
