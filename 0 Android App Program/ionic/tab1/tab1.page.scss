@@ -1,0 +1,13 @@
+.led-on {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background-color: green; /* LED가 켜졌을 때 */
+  }
+    
+  .led-off {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background-color: red; /* LED가 꺼졌을 때 */
+  }
