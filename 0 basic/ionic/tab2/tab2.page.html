@@ -1,0 +1,53 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>
+      데이터 송수신
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-header collapse="condense">
+    <ion-toolbar>
+      <ion-title size="large">데이터 송수신</ion-title>
+    </ion-toolbar>
+  </ion-header>
+
+  <!-- 통신 방법 선택 -->
+  <!-- 
+  <ion-item>
+    <ion-label>서버통신 선택</ion-label>
+    <ion-select [(ngModel)]="globalService.dev.selectedCommMethod" 
+                (ionChange)="onCommMethodChange()" 
+                placeholder="통신 방법을 선택하세요">
+      <ion-select-option value="0">블루투스</ion-select-option>
+      <ion-select-option value="1">와이파이</ion-select-option>
+      <ion-select-option value="2">RS232</ion-select-option>
+      <ion-select-option value="3">RS485</ion-select-option>
+    </ion-select>
+  </ion-item>
+  -->
+
+  <!-- 메시지 입력 -->
+  <ion-item>
+    <ion-input [(ngModel)]="globalService.dev.sendData" placeholder="문자 메시지를 입력하세요"></ion-input>
+    <!-- 메시지 전송 버튼 -->
+    <ion-button (click)="sendData()">보냄</ion-button>
+  </ion-item>
+
+  <!-- 16진수 데이터 입력 -->
+  <ion-item>
+    <ion-input [(ngModel)]="globalService.dev.sendDataHex" placeholder="hex 데이터 (예: e4 a8 ff)"></ion-input>
+    <ion-button (click)="sendHexData()">보냄</ion-button>
+  </ion-item>
+
+   <!-- 메시지 표시 -->
+   <br>&nbsp;&nbsp;&nbsp;수신메세지
+   <div>&nbsp;&nbsp;&nbsp;{{ message }}</div>
+
+  <ion-item>
+    <!-- <ion-label>수신된 HEX 데이터:</ion-label> -->
+    <ion-text>{{ hexData }}</ion-text>
+  </ion-item>
+
+</ion-content>
