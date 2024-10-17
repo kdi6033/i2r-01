@@ -70,4 +70,3 @@ https://github.com/kdi6033/i2r-01/tree/main/5%20mqtt-LS%20modebus<br><br>
 https://youtu.be/sFHXsX1PzqY)    
 
 ![센서데이터보기](https://github.com/kdi6033/i2r-01/tree/main/Autonix%20TK4W-T4RN%20Temperature%20Sensor)
-https://github.com/kdi6033/i2r-01/tree/main/Autonix%20TK4W-T4RN%20Temperature%20Sensor
