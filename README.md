@@ -42,19 +42,17 @@ rs232 rs485 통신 프로그램 설명과 프로그램
 [![rs232 rs485 통신 프로그램](https://img.youtube.com/vi/zMqUET-AzRA/hqdefault.jpg)](https://youtu.be/zMqUET-AzRA)
 
 ### IoT MQTT Panel 사용해 통신
-<br><br>아두이노로 mqtt 통신을 연결한다.
-ArduinoJson.h 를 사용해 데이터 처리방법을 설명한다.
-IoT MQTT Panel을 이용해 스마트폰으로 보드의 led를 제어 한다.<br><br>
-[![IoT MQTT Panel 사용해 통신](https://img.youtube.com/vi/XUZnNzr35jI/hqdefault.jpg)](
-https://youtu.be/XUZnNzr35jI)
+아두이노로 mqtt 통신을 연결한다.    
+ArduinoJson.h 를 사용해 데이터 처리방법을 설명한다.    
+IoT MQTT Panel을 이용해 스마트폰으로 보드의 led를 제어 한다.    
+[![IoT MQTT Panel 사용해 통신](https://img.youtube.com/vi/XUZnNzr35jI/hqdefault.jpg)](https://youtu.be/XUZnNzr35jI)
 
 ### MQTT 를 RS232 RS485 통신과 연결
-아두이노로 mqtt 통신을 연결한다.
-mqtt 통신으로 들어온 문자를 rs232 rs485 통신으로 보낸다.
-rs232 rs485 통신으로 들어온 문자를 mqtt 통신으로 보낸다.<br><br>
-<br><br>[![MQTT 를 RS232 RS485 통신과 연결](https://img.youtube.com/vi/PjYLiG9bkJo/hqdefault.jpg)](
-https://youtu.be/PjYLiG9bkJo)
-<br><br>
+아두이노로 mqtt 통신을 연결한다.    
+mqtt 통신으로 들어온 문자를 rs232 rs485 통신으로 보낸다.    
+rs232 rs485 통신으로 들어온 문자를 mqtt 통신으로 보낸다.    
+[![MQTT 를 RS232 RS485 통신과 연결](https://img.youtube.com/vi/PjYLiG9bkJo/hqdefault.jpg)](https://youtu.be/PjYLiG9bkJo)
+
 ### LS 산전 PLC XEC-DR14E Modbus 통신
 LS 산전 PLC XEC-DR14E 를 Modebus 프로토콜을 이용하여 통신한다.     
 [![LS 산전 PLC XEC-DR14E Modbus 통신](https://img.youtube.com/vi/UspWiQ7-4tk/hqdefault.jpg)](https://youtu.be/UspWiQ7-4tk)     
