@@ -15,7 +15,8 @@ WiFi와 달리 근거리 통신을 할 때 유용하게 사용할 수 있습니�
 <img src="https://shop-phinf.pstatic.net/20230323_31/1679552850674Dhsf6_PNG/SE-94d438aa-5bbe-4e35-b0c1-f8c143c6f49c.jpg?type=w860" data-src="https://shop-phinf.pstatic.net/20230323_31/1679552850674Dhsf6_PNG/SE-94d438aa-5bbe-4e35-b0c1-f8c143c6f49c.jpg?type=w860" alt="" class="se-image-resource">
 <rs 232 통신예시><br><br>
 <img src="https://shop-phinf.pstatic.net/20230323_167/1679552899753qVtAa_PNG/SE-628efce6-f930-44d3-90fc-ef5359d88657.jpg?type=w860" data-src="https://shop-phinf.pstatic.net/20230323_167/1679552899753qVtAa_PNG/SE-628efce6-f930-44d3-90fc-ef5359d88657.jpg?type=w860" alt="" class="se-image-resource">
-<rs485 통신예시><br><br>
+<rs485 통신예시>
+
 ![i2r-02-포트설명](https://github.com/kdi6033/i2r-01/blob/main/%EC%9E%90%EB%A3%8C/i2r-01-pin.png?raw=true)
 
 <br><br><img src="https://shop-phinf.pstatic.net/20230826_266/1693026697638mXVNk_PNG/pin%EC%97%B0%EA%B2%B0.png?type=w860" data-src="https://shop-phinf.pstatic.net/20230826_266/1693026697638mXVNk_PNG/pin%EC%97%B0%EA%B2%B0.png?type=w860" alt="" class="se-image-resource">   
@@ -29,11 +30,13 @@ i2r-01 의 파생 상품으로 AHT21 온습도 센서를 부착하여 센서의 
 
 # 유튜브 영상
 ### 보드설명
-<br><br>RS232 RS485 WiFi Bluetooth 통신을 조합해서 사용 와이파이 또는 블루투스를 RS232 RS485 통신으로 연결
+<br><br>RS232 RS485 WiFi Bluetooth 통신을 조합해서 사용 와이파이 또는 블루투스를 RS232 RS485 통신으로 연결    
+
 <br><br>[![보드설명](https://img.youtube.com/vi/GtJyXPYJFQ0/hqdefault.jpg)](
 https://youtu.be/GtJyXPYJFQ0)
 ### 와이파이, mqtt 통신연결
-<br><br>와이피이에 접속하여 mqtt 통신을 연결한다.
+<br><br>와이피이에 접속하여 mqtt 통신을 연결한다.     
+
 <br><br>[![와이파이, mqtt 통신연결](https://img.youtube.com/vi/MS7zH7IwGxs/hqdefault.jpg)](https://youtu.be/MS7zH7IwGxs)
 
 ### rs232 rs485 통신 프로그램
