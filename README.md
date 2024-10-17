@@ -64,7 +64,9 @@ https://youtu.be/PjYLiG9bkJo)
 [![LS 산전 PLC XEC-DR14E Modbus 통신](https://img.youtube.com/vi/UspWiQ7-4tk/hqdefault.jpg)](
 https://youtu.be/UspWiQ7-4tk)     
 
-https://github.com/kdi6033/i2r-01/tree/main/5%20mqtt-LS%20modebus<br><br>
+[소스프로그램](https://github.com/kdi6033/i2r-01/tree/main/5%20mqtt-LS%20modebus)
+
+
 ### Autonix TK4W-T4RN 온도센서 온도 읽어오기
 <br><br>[![Autonix TK4W-T4RN 온도센서 온도 읽어오기](https://img.youtube.com/vi/sFHXsX1PzqY/hqdefault.jpg)](
 https://youtu.be/sFHXsX1PzqY)    
