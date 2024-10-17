@@ -30,18 +30,16 @@ i2r-01 의 파생 상품으로 AHT21 온습도 센서를 부착하여 센서의 
 
 # 유튜브 영상
 ### 보드설명
-<br><br>RS232 RS485 WiFi Bluetooth 통신을 조합해서 사용 와이파이 또는 블루투스를 RS232 RS485 통신으로 연결    
+RS232 RS485 WiFi Bluetooth 통신을 조합해서 사용 와이파이 또는 블루투스를 RS232 RS485 통신으로 연결     
+[![보드설명](https://img.youtube.com/vi/GtJyXPYJFQ0/hqdefault.jpg)](https://youtu.be/GtJyXPYJFQ0)
 
-<br><br>[![보드설명](https://img.youtube.com/vi/GtJyXPYJFQ0/hqdefault.jpg)](
-https://youtu.be/GtJyXPYJFQ0)
 ### 와이파이, mqtt 통신연결
-<br><br>와이피이에 접속하여 mqtt 통신을 연결한다.     
-
-<br><br>[![와이파이, mqtt 통신연결](https://img.youtube.com/vi/MS7zH7IwGxs/hqdefault.jpg)](https://youtu.be/MS7zH7IwGxs)
+와이피이에 접속하여 mqtt 통신을 연결한다.      
+[![와이파이, mqtt 통신연결](https://img.youtube.com/vi/MS7zH7IwGxs/hqdefault.jpg)](https://youtu.be/MS7zH7IwGxs)
 
 ### rs232 rs485 통신 프로그램
-<br><br>rs232 rs485 통신 프로그램 설명과 프로그램
-<br><br>[![rs232 rs485 통신 프로그램](https://img.youtube.com/vi/zMqUET-AzRA/hqdefault.jpg)](https://youtu.be/zMqUET-AzRA)
+rs232 rs485 통신 프로그램 설명과 프로그램    
+[![rs232 rs485 통신 프로그램](https://img.youtube.com/vi/zMqUET-AzRA/hqdefault.jpg)](https://youtu.be/zMqUET-AzRA)
 
 ### IoT MQTT Panel 사용해 통신
 <br><br>아두이노로 mqtt 통신을 연결한다.
@@ -49,9 +47,8 @@ ArduinoJson.h 를 사용해 데이터 처리방법을 설명한다.
 IoT MQTT Panel을 이용해 스마트폰으로 보드의 led를 제어 한다.<br><br>
 [![IoT MQTT Panel 사용해 통신](https://img.youtube.com/vi/XUZnNzr35jI/hqdefault.jpg)](
 https://youtu.be/XUZnNzr35jI)
-<br><br>
+
 ### MQTT 를 RS232 RS485 통신과 연결
-<br><br>
 아두이노로 mqtt 통신을 연결한다.
 mqtt 통신으로 들어온 문자를 rs232 rs485 통신으로 보낸다.
 rs232 rs485 통신으로 들어온 문자를 mqtt 통신으로 보낸다.<br><br>
