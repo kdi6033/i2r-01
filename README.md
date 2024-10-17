@@ -56,16 +56,10 @@ rs232 rs485 통신으로 들어온 문자를 mqtt 통신으로 보낸다.<br><br
 https://youtu.be/PjYLiG9bkJo)
 <br><br>
 ### LS 산전 PLC XEC-DR14E Modbus 통신
-<br><br>LS 산전 PLC XEC-DR14E 를 Modebus 프로토콜을 이용하여 통신한다.    
-
-[![LS 산전 PLC XEC-DR14E Modbus 통신](https://img.youtube.com/vi/UspWiQ7-4tk/hqdefault.jpg)](
-https://youtu.be/UspWiQ7-4tk)     
-
+LS 산전 PLC XEC-DR14E 를 Modebus 프로토콜을 이용하여 통신한다.     
+[![LS 산전 PLC XEC-DR14E Modbus 통신](https://img.youtube.com/vi/UspWiQ7-4tk/hqdefault.jpg)](https://youtu.be/UspWiQ7-4tk)     
 [소스프로그램](https://github.com/kdi6033/i2r-01/tree/main/5%20mqtt-LS%20modebus)
 
-
 ### Autonix TK4W-T4RN 온도센서 온도 읽어오기
-<br><br>[![Autonix TK4W-T4RN 온도센서 온도 읽어오기](https://img.youtube.com/vi/sFHXsX1PzqY/hqdefault.jpg)](
-https://youtu.be/sFHXsX1PzqY)    
-
+[![Autonix TK4W-T4RN 온도센서 온도 읽어오기](https://img.youtube.com/vi/sFHXsX1PzqY/hqdefault.jpg)](https://youtu.be/sFHXsX1PzqY)    
 [센서데이터보기](https://github.com/kdi6033/i2r-01/tree/main/Autonix%20TK4W-T4RN%20Temperature%20Sensor)
