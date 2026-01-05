@@ -21,13 +21,6 @@ WiFi와 달리 근거리 통신을 할 때 유용하게 사용할 수 있습니�
 
 <br><br><img src="https://shop-phinf.pstatic.net/20230826_266/1693026697638mXVNk_PNG/pin%EC%97%B0%EA%B2%B0.png?type=w860" data-src="https://shop-phinf.pstatic.net/20230826_266/1693026697638mXVNk_PNG/pin%EC%97%B0%EA%B2%B0.png?type=w860" alt="" class="se-image-resource">   
 
-# i2r-05   
-i2r-01 의 파생 상품으로 AHT21 온습도 센서를 부착하여 센서의 값을 인터넷에서 연결하고 여기서 온도 값에 따라 연결되어 있는 IoT 기기들을 연동하게 하였습니다. 여기서 RS485 통신 모듈은 연결하지 않았습니다.   
-![i2r-05-01](https://github.com/user-attachments/assets/0da7a07f-2514-4e2b-99e1-b87552df1f21)   
-![AHT21](https://github.com/user-attachments/assets/c55c48df-7fa1-4ab4-9c5d-8ace01f49501)
-
-
-
 # 유튜브 영상
 ### 보드설명
 RS232 RS485 WiFi Bluetooth 통신을 조합해서 사용 와이파이 또는 블루투스를 RS232 RS485 통신으로 연결     
